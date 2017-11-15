@@ -1,0 +1,22 @@
+error
+access
+plugin
+ssl
+
+
+webserver logs
+
+apache
+http
+
+browser
+
+4 books
+
+C:\Program Files\IBM\WebSphere\AppClient
+
+
+
+localhost
+
+2809

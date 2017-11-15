@@ -1,0 +1,44 @@
+[root@localhost storage]# wget https://delivery04.dhe.ibm.com/sar/CMA/WSA/03tzk/0/8.5.5-WS-WAS-RP-part1.zip
+--2017-10-13 11:06:50--  https://deli
+
+very04.dhe.ibm.com/sar/CMA/WSA/03tzk/0/8.5.5-WS-WAS-RP-part1.zip
+Resolving delivery04.dhe.ibm.com... 170.225.15.105
+Connecting to delivery04.dhe.ibm.com|170.225.15.105|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 869527583 (829M) [application/zip]
+Saving to: `8.5.5-WS-WAS-RP-part1.zip'
+
+100%[==============================================================================================================================>] 869,527,583  233K/s   in 70m 52s 
+
+2017-10-13 12:17:43 (200 KB/s) - `8.5.5-WS-WAS-RP-part1.zip' saved [869527583/869527583]
+
+---------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+
+
+
+[root@localhost storage]# wget https://delivery04.dhe.ibm.com/sar/CMA/WSA/03tzj/0/8.5.5-WS-WAS-RP-part2.zip
+--2017-10-13 11:13:46--  https://delivery04.dhe.ibm.com/sar/CMA/WSA/03tzj/0/8.5.5-WS-WAS-RP-part2.zip
+Resolving delivery04.dhe.ibm.com... 170.225.15.105
+Connecting to delivery04.dhe.ibm.com|170.225.15.105|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1786338936 (1.7G) [application/zip]
+Saving to: `8.5.5-WS-WAS-RP-part2.zip'
+
+100%[====================================>] 1,786,338,936  220K/s   in 2h 20m  
+
+2017-10-13 13:34:30 (207 KB/s) - `8.5.5-WS-WAS-RP-part2.zip' saved [1786338936/1786338936]
+
+
+versions difference https://en.wikipedia.org/wiki/IBM_WebSphere_Application_Server
+
+
+
+https://www.google.co.in/search?client=firefox-b-ab&dcr=0&q=download+was+8.5.5&oq=download+was+&gs_l=psy-ab.1.1.0l10.40789.43419.0.47564.13.13.0.0.0.0.151.1573.0j12.12.0....0...1.1.64.psy-ab..1.12.1569...0i131k1j0i10k1.0.5Q8PY606j-0
+
+https://www-01.ibm.com/support/docview.wss?uid=swg24034969
+
+https://www-945.ibm.com/support/fixcentral/swg/downloadFixes?parent=ibm%2FWebSphere&product=ibm/WebSphere/WebSphere+Application+Server&release=All&platform=All&function=fixId&fixids=8.5.5-WS-WAS-RP-part1&includeRequisites=1&includeSupersedes=0&downloadMethod=http
+
+
+https://www-945.ibm.com/support/fixcentral/swg/downloadOptions
